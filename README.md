@@ -3,7 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## NPM INSTALL SheetJS
-[Installation Guide](https://docs.sheetjs.com/docs/getting-started/installation/nodejs)
+[`Installation Guide`](https://docs.sheetjs.com/docs/getting-started/installation/nodejs)
+[`Other Examples`](https://docs.sheetjs.com/docs/getting-started/example)
 
 1) Download the tarball (xlsx-0.18.11.tgz) for the desired version. The current version is available at https://cdn.sheetjs.com/xlsx-0.18.11/xlsx-0.18.11.tgz
 2) Create a vendor subfolder at the root of your project and move the tarball to that folder. Add it to your project repository.
